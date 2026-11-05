@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-matching-intelligence-nuxt",
+  "capabilityKey": "liberusoftware/module-accounting-matching-intelligence",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-accounting-matching-intelligence-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/matching-intelligence.md",
+  "presentationPlan": "projects/accounting/nuxt/matching-intelligence.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
